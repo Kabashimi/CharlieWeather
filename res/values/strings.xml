@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CharlieWeather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Internet_Is_Disabled">Połączenie jest wyłączone</string>
+    <string name="nameOfCity">Miasto: </string>
+    <string name="state">Miasto: </string>
+    <string name="weather">Pogoda: </string>
+    <string name="pressure">Ciśnienie: </string>
+    <string name="max">Max: </string>
+    <string name="min">Min: </string>
+    <string name="day">Dzień: </string>
+    <string name="night">Noc: </string>
+    <string name="celsius">C</string>
+    <string name="temperatuer">Temperatura</string>
+    <string name="humidity">Wilgotność: </string>
+    <string name="snow">Śnieg: </string>
+    <string name="clouds">Chmury: </string>
+    <string name="rain">Deszcz: </string>
+    <string name="addCity">Dodaj miasto</string>
+    <string name="refresh">Odśwież</string>
+    <string name="send_email">Wyślij email</string>
+    <string name="enter_city">Wprowadź nazwę miasta</string>
+    <string name="word_too_short">Nazwa za krótka</string>
+    <string name="confirm">Zatwierdź</string>
+    <string name="cancel">Anuluj</string>
+    <string name="title_activity_only_one">OnblyOne</string>
+    <string name="delete_city">Usuń wybrane miasto</string>
+
+</resources>
